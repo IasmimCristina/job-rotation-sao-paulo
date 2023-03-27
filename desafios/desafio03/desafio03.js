@@ -48,10 +48,8 @@ const aboveMedia = (media) => {
 // ------------------------------------
 
 console.log("==============================")
-
 console.log("--- Sendo o número da média mensal de " + createMedia() + " reais, a quantidade de dias que superarou foi " + aboveMedia(createMedia()) + " dias.")
 console.log("--- Maior valor do faturamento: " + biggerSmallest().bigger + " reais.")
 console.log("--- Menor valor do faturamento: " + biggerSmallest().smallest + " reais.")
-
 console.log("==============================")
 

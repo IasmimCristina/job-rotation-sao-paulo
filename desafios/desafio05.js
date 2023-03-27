@@ -20,11 +20,11 @@ const changeOrder = (textInput) => {
 console.log("===================================")
 console.log("======= Inversão de STIRNG ========")
 
-let stringInput = prompt("Digite uma string de tamanho qualquer: ");
-console.log("============================")
+let stringInput = prompt("Digite uma string de tamanho qualquer:");
 console.log("----");
-console.log("Revertindo o que foi digitado: " + changeOrder(stringInput) + ".");
+console.log("Texto invertido:" + changeOrder(stringInput));
 console.log("----");
+console.log("===================================")
 
 
 

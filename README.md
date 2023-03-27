@@ -1,4 +1,5 @@
 # job-rotation-sao-paulo
  Atividades pedidas no processo seletivo.
 
-- Projeto descontinuado, mas adicionado ao Github para aprendizado.
+- Projeto  adicionado ao Github para aprendizado e demonstração.
+- Desafios efetuados com a linguagem JavaScript.
