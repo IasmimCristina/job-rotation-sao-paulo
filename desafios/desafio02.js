@@ -26,5 +26,5 @@ const prompt = require("prompt-sync")(); //Importação necessária.
 console.log("==========================================");
 console.log("=============FIBONACCI CHECKER============");
 let valor = prompt("Digite um número: ");
-isFibonacciNumber(valor)
+isFibonacciNumber(valor);
 console.log("==========================================");
